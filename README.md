@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет 👋
+
+Моё резюме здесь: https://se.ifmo.ru/~s368273/resume/
 
 <!--
 **Antero2113/Antero2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
